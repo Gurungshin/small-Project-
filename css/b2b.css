@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 /*font-family: 'Poppins', sans-serif;*/
 body{background:#fff;font-family: 'Poppins', sans-serif;}
-.airiq-header{width:100%;padding:10px 0px 10px 0px;background:#fff;position:relative;}
+.airiq-header{width:100%;padding:10px 65px 10px 65px;background:#fff;position:relative;}
 .airiq-header .container, .container-lg, .container-md, .container-sm, .container-xl {
    /* max-width: 90%;padding: 0px 10%;*/
 }
@@ -5266,5 +5266,9 @@ width: auto; max-width:auto;
 }
 }
 @media screen and (max-width: 319px) {
+}
+
+.submit-btn{
+    width: 200px;
 }
 /*designed by Techno Imagine - www.technoimagine.in*/
